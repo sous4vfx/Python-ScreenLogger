@@ -13,6 +13,7 @@ This project was created for a school assignment and is based on other open-sour
 - **Auto Startup**: Once converted into an **executable**, the program will automatically add itself to the **Startup folder** of Windows.
   
 ## 🛠️ **Main Functions**
+<img src="https://github.com/user-attachments/assets/54deb6db-15dd-4f27-bb21-49e410000769" />
 
 - ✅ **Screenshot Capture**
 - ✅ **Hostname Retrieval**
