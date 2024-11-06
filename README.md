@@ -13,6 +13,7 @@ Este projeto foi criado para um trabalho escolar e baseado em outros projetos op
 - **Integração com o Início Automático**: Ao ser convertido em um **executável**, o programa será automaticamente copiado para a **pasta de Inicialização** do Windows.
   
 ## 🛠️ **Principais Funções**
+<img src="https://github.com/user-attachments/assets/54deb6db-15dd-4f27-bb21-49e410000769" />
 
 - ✅ **Captura de Capturas de Tela**
 - ✅ **Recuperação de Hostname**
